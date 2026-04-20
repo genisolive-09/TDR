@@ -1,0 +1,144 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.25)  9 APR 2026 06:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/workspaces/iniciacio-python/TDR/main.tex
+(/workspaces/iniciacio-python/TDR/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip50
+\cftbeforetoctitleskip=\skip51
+\cftaftertoctitleskip=\skip52
+\cftbeforepartskip=\skip53
+\cftpartnumwidth=\skip54
+\cftpartindent=\skip55
+\cftbeforechapskip=\skip56
+\cftchapindent=\skip57
+\cftchapnumwidth=\skip58
+\cftbeforesecskip=\skip59
+\cftsecindent=\skip60
+\cftsecnumwidth=\skip61
+\cftbeforesubsecskip=\skip62
+\cftsubsecindent=\skip63
+\cftsubsecnumwidth=\skip64
+\cftbeforesubsubsecskip=\skip65
+\cftsubsubsecindent=\skip66
+\cftsubsubsecnumwidth=\skip67
+\cftbeforeparaskip=\skip68
+\cftparaindent=\skip69
+\cftparanumwidth=\skip70
+\cftbeforesubparaskip=\skip71
+\cftsubparaindent=\skip72
+\cftsubparanumwidth=\skip73
+\cftbeforeloftitleskip=\skip74
+\cftafterloftitleskip=\skip75
+\cftbeforefigskip=\skip76
+\cftfigindent=\skip77
+\cftfignumwidth=\skip78
+\c@lofdepth=\count196
+\c@lotdepth=\count197
+\cftbeforelottitleskip=\skip79
+\cftafterlottitleskip=\skip80
+\cftbeforetabskip=\skip81
+\cfttabindent=\skip82
+\cfttabnumwidth=\skip83
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip84
+\aftertitleunit=\skip85
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks17
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count198
+\U@D=\dimen146
+\l@unhyphenated=\language8
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count199
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-catalan/catalan.ldf
+Language: catalan 2005/03/29 v2.2p Catalan support from the babel system
+Package babel Info: Making " an active character on input line 91.
+\leftllkern=\dimen147
+\rightllkern=\dimen148
+\raiselldim=\dimen149
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ca/babel-catalan.tex
+Package babel Info: Importing font and identification data for catalan
+(babel)             from babel-ca.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+
+! LaTeX Error: File `carlito.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+/workspaces/iniciacio-python/TDR/main.tex:21: Emergency stop.
+<read *> 
+         
+l.21 \usepackage
+                {fancyhdr}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 2614 strings out of 476120
+ 40418 string characters out of 5793657
+ 1922975 words of memory out of 5000000
+ 24657 multiletter control sequences out of 15000+600000
+ 559131 words of font info for 38 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 57i,0n,65p,293b,104s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/workspaces/iniciacio-python/TDR/main.tex:21:  ==> Fatal error occurred, no output PDF file produced!
